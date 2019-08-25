@@ -3,7 +3,7 @@ main source code
 verification process is not included
 
 
-bugs first mile stone 
+bugs first mile stone setteled by faisal
 
 
 bug1
