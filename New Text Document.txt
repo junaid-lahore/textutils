@@ -1,17 +1,11 @@
 main source code
 
-<<<<<<< HEAD
 
-
-
-
-=======
 verification process included, it should be in serverchanged
 
 
 
 bugs first mile stone setteled by faisal and i want to insert it in serverchanged
->>>>>>> faisal
 
 
 bug1
