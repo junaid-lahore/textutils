@@ -1,9 +1,10 @@
 main source code
 
-verification process included
+verification process included, it should be in serverchanged
 
 
-bugs first mile stone setteled by faisal
+
+bugs first mile stone setteled by faisal and i want to insert it in serverchanged
 
 
 bug1
