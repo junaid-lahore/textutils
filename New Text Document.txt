@@ -1,6 +1,6 @@
 main source code
 
-verification process is included
+verification process is not included
 
 
 bugs first mile stone is not setteled
