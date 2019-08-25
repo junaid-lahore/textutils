@@ -7,6 +7,7 @@ verification process included, it should be in serverchanged
 bugs first mile stone setteled by faisal and i want to insert it in serverchanged
 
 
-bug1
+bug1 setteled by faisal
+
 bug2
 bug3
