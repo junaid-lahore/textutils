@@ -1,10 +1,10 @@
 main source code
 
 <<<<<<< HEAD
-verification process is not included
 
 
-bugs first mile stone is not setteled
+
+
 =======
 verification process included, it should be in serverchanged
 
